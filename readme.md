@@ -61,11 +61,9 @@ Descripción Detallada de los Campos de Entrada
       garantizar la seguridad y precisión de la información registrada.
     </p>
   </li>
-
-
 </ol>
-<h2><b>Contacto</b></h2><br><br>
-Puedes encontrarme en mis redes sociales: <b>@jerangel1</b>
+<h2><b>Contacto</b></h2>
+Puedes encontrarme en mis redes sociales: <b>@jerangel1</b><br><br>
 <ul>
   <li><a href="https://github.com/jerangel1?tab=repositories">GitHub</a></li>
    <li><a href="https://twitter.com/jerangel1">Twitter</a></li>
