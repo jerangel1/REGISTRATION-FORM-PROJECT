@@ -64,7 +64,7 @@ Descripción Detallada de los Campos de Entrada
 
 
 </ol>
-<h2><b>Contacto</b></h2><br>
+<h2><b>Contacto</b></h2><br><br>
 Puedes encontrarme en mis redes sociales: <b>@jerangel1</b>
 <ul>
   <li><a href="https://github.com/jerangel1?tab=repositories">GitHub</a></li>
