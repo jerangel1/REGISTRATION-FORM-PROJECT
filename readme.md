@@ -66,6 +66,8 @@ Descripción Detallada de los Campos de Entrada
 </ol>
 <p><b>Contacto</b></p>
 Puedes encontrarme en mis redes sociales: <b>@jerangel1</b>
-
-<a href="https://github.com/jerangel1?tab=repositories">GitHub</a>
-<a href="https://twitter.com/jerangel1">Twitter</a>
+<ul>
+  <li><a href="https://github.com/jerangel1?tab=repositories">GitHub</a></li>
+   <li><a href="https://twitter.com/jerangel1">Twitter</a></li>
+   <li><a href="https://www.linkedin.com/in/jerangel1/">Linkedin</a></li>
+</ul>
